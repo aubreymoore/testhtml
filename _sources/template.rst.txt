@@ -1,0 +1,33 @@
+.. _template:
+
+Grant Template
+==============
+
+Replace the title of this page with the short title.
+
+Any notes about this grant can go here.
+
+Key data
+--------
+
+* Short title:
+* Long title:
+* Start date:
+* End date:
+* Total budget:
+* Federal ID:
+* UOG ID:
+* UG Account:
+
+Documents
+---------
+
+* Proposal: hyperlink
+* Award letter: hyperlink
+* Report 1 (due date): hyperlink
+* Report 2 (due date): hyperlink
+* Final report (due date): hyperlink
+
+  
+
+

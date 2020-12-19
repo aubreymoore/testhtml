@@ -1,0 +1,29 @@
+.. grant-tracker documentation master file, created by
+   sphinx-quickstart on Sat Dec 19 07:18:18 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to grant-tracker's documentation!
+=========================================
+
+.. toctree::
+   :maxdepth: 1
+
+   2019PPA
+   2020DOI
+   2020FS-CRB
+   2020FS-HR
+
+.. toctree::
+   :maxdepth: 2
+
+   about
+   template
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+

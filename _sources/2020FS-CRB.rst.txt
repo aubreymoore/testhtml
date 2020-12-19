@@ -1,0 +1,29 @@
+.. _2020FS-CRB:
+
+2020 FS-CRB
+===========
+
+TODO: move docs from mail to GH
+
+Key data
+--------
+
+* **Short title:** 2020 FS-CRB
+* **Long title:** Establishment of Self-sustaining Biological Control of Coconut Rhinoceros Beetle Biotype G in Micronesia
+* **Start date:** 2020-06-17
+* **End date:** 2021-05-30
+* **Total budget:** $97,658
+* **Federal ID:** 20-DG-11052021-229
+* **UOG ID:**
+* **UG Account:**
+
+Documents
+---------
+
+* **Proposal:** `PDF <https://github.com/aubreymoore/2020-FS-CRB-biocontrol-project/blob/master/combined-proposal.pdf>`_
+* **Award letter:** `PDF <https://mail.google.com/mail/u/0/#search/20-DG-11052021-229/CqMvqmRKqcbBnWSzlhvgJPfLDCNxpDmwmWXZLqXvBQkWptwwpDfsKVbbRBtBzWLqpcXjzPWlWLV?projector=1&messagePartId=0.5>`_
+* **Report 1 (2020-03-20):** 
+* **Report 2 (due date):** hyperlink
+* **Final report (due date):** hyperlink
+
+

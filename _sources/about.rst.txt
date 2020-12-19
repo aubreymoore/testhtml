@@ -1,0 +1,31 @@
+.. _about: 
+
+Technical Notes About grant-tracker
+===================================
+
+I developed grant-tracker to help me manage my grants. It is built using the **Sphinx** documentation system and content was written using the **ReStructuredText** markup language. 
+
+Getting Started
+---------------
+
+I used **sphinx-quickstart** to created a skeleton project on my local Linux machine.::
+
+   mkdir grant-tracker
+   cd grant-tracker
+   sphinx-quickstart
+   make html
+
+At this point, html files are written to **grant-tracker/_build/html** and
+can be viewed by opening **index.html** in a web browser.
+
+Building the Site
+-----------------
+
+The site was built simply by adding reStructuredText files (\*.rst) to the **grant-tracker** directory using a text editor.
+
+References
+----------
+
+I found `techwritingmatters.com <https://techwritingmatters.com>`_ to be very useful for learning **Sphinx** and **ReStructuredText**.
+
+

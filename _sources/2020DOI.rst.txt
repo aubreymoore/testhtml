@@ -1,0 +1,27 @@
+.. _2020DOI:
+
+2020 DOI
+========
+
+Key data
+--------
+
+* **Short title:** 2020 DOI
+* **Long title:** Establishment of Self-sustaining Biological Control of Coconut Rhinoceros Beetle Biotype G in Micronesia
+* **Start date:** 2020-05-14
+* **End date:** 2023-09-30
+* **Total budget:** $294,994
+* **Federal ID:** D20AP00060
+* **UOG ID:**
+* **UG Account:**
+
+Documents
+---------
+
+* **Proposal:** `PDF <https://github.com/aubreymoore/2020-DOI-CRB-Biocontrol/blob/master/doi_proposal.pdf>`_ 
+* **Award letter:** `PDF <https://github.com/aubreymoore/2020-DOI-CRB-Biocontrol/blob/master/D20AP00060-Grant%20Award%20Document.pdf>`_ 
+* **Report 1 (2020-03-20):** 
+* **Report 2 (due date):** hyperlink
+* **Final report (due date):** hyperlink
+
+
